@@ -1,0 +1,7 @@
+<footer class="site-footer">
+    {{ site.description }}<br />
+
+    {% if site.analytics.provider and page.analytics != false %}
+     :: Analytics by {{ site.analytics.provider }}
+    {% endif %}
+</footer>
