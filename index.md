@@ -12,8 +12,8 @@ I graduated with Master's of Science in Electrical and Computer Engineering from
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an unsorted list, my research interest lies in:
 * Fairness and Trustworthy AI
-* Multiagent Systems and optimization
-* Deep learning and its uncertainty & robustness
+* Multiagent Systems and Optimization
+* Deep Learning and its Uncertainty & Robustness
 * Understanding the relationship between language and vision in humans
 
 <br/>
