@@ -14,7 +14,9 @@ I am broadly interested in different forms of artificial intelligence that carry
 * Fairness and Trustworthy AI
 * Multiagent Systems and Optimization
 * Deep Learning and its Uncertainty & Robustness
+* Application of AI in Healthcare and Climate Science
 * Understanding the relationship between language and vision in humans
+
 
 <br/>
 <br/>
