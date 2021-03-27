@@ -11,10 +11,10 @@ Hey there, thank you for visiting my website. <br/>
 I graduated with Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, my research interest lies in:
-* Fairness and Trustworthy AI
+* AI for Social Goods
+* Deep Reinforcement Learning
 * Multiagent Systems and Optimization
 * Deep Learning and its Uncertainty & Robustness
-* Application of AI in Healthcare and Climate Science
 * Deep Learning in Resources-Constrained and Shared Environments 
 
 
