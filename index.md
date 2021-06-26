@@ -8,14 +8,14 @@ permalink: /
 
 Hey there! <br/>
 
-I graduated with Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University].<br/>
+I graduated with a Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my research time in:
-* Life-Long Human Robot Interation.
+* Life-Long Human-Robot Interaction.
 * Deep Learning and its Uncertainty & Robustness.
 * AI solutions for Social Goods and Climate Change.
 
-Apart from above, I frequently autodidactic myself ranging from philosphy (currently exploring **Stoic**) to economics (currently exploring **social choice theory**).
+Apart from above, I frequently autodidactic myself ranging from philosophy (currently exploring **Stoic**) to economics (currently exploring **social choice theory**).
 
 
 <br/>
