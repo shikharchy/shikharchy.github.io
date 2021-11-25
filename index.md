@@ -27,7 +27,7 @@ Stay Tuned. More updates are coming pretty soon. :)
 
 Rahul Singh Maharjan <br />
 Pixel away from <br />
-Email: rmsingh (at) g.skku.edu
+Email: rahulsingh.maharjan (at) manchester.ac.uk
 
 
 [Sungkyunkwan University]: https://www.skku.edu/eng/
