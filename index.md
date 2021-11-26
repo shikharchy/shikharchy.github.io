@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-{% include image.html url="images/rahul.jpeg" caption="Me" width="350px" align="right" %}
+{% include image.html url="images/shikhar.jpg" caption="Me" width="350px" align="right" %}
 
 **Hello!!!**
 
