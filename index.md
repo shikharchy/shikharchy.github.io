@@ -10,7 +10,7 @@ permalink: /
 
 Thank you for visiting my academic website. <br/>
 
-I am currently studying Bachelor of Science in Information Technology at [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal.<br/>
+I am currently studying Bachelor of Science in Information Technology at [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal. I got chance to study in Srilanka through the Presidential Scholarship for Foreign Student programme which is taken care by [https://www.mohe.gov.lk/index.php?lang=en].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my time on:
 
@@ -36,4 +36,4 @@ Email: xboyme2053 (at) gmail.com
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
 [CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar.pdf
-
+[https://www.mohe.gov.lk/index.php?lang=en]:https://www.mohe.gov.lk/index.php?lang=en
