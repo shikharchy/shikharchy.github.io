@@ -8,7 +8,7 @@ permalink: /
 
 **Hello नमस्ते 안녕하세요 !!!**<br/>
 
-I graduated with a Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University].<br/>
+I graduated with a Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my research on:
 
