@@ -10,7 +10,7 @@ permalink: /
 
 Thank you for visiting my academic website. <br/>
 
-I am currently studying at [University of Vavuniya,Srilanka].<br/>
+I am currently studying Bachelor of Science in Information Technology at [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal.<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my time on:
 
