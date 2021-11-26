@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/rahul.jpeg" caption="Me" width="350px" align="right" %}
 
-Hey there! Hello, नमस्ते, 안녕하세요<br/>
+Hello!!! नमस्ते!!! 안녕하세요 !!!<br/>
 
 I graduated with a Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University].<br/>
 
@@ -31,7 +31,7 @@ Pixel away from <br />
 Email: rahulsingh.maharjan (at) manchester.ac.uk
 
 
-[Sungkyunkwan University]: https://www.skku.edu/eng/
-[Pokhara University]: https://pu.edu.np/
+[Sungkyunkwan University, South Korea]: https://www.skku.edu/eng/
+[Pokhara University, Nepal]: https://pu.edu.np/
 [Computer Vision Lab]: http://vision.skku.ac.kr/
 

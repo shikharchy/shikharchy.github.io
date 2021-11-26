@@ -1,1 +1,1 @@
-# This is personal git page 
+# Academic webpage of Rahul Singh Maharjan
