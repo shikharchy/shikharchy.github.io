@@ -10,7 +10,7 @@ permalink: /
 
 Thank you for visiting my academic website. <br/>
 
-I am currently studying Bachelor of Science in Information Technology at [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal. I got chance to study in Srilanka through the Presidential Scholarship for Foreign Student programme which is taken care by [https://www.mohe.gov.lk/index.php?lang=en].<br/>
+I am currently studying Bachelor of Science in Information Technology at [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal. I got chance to study in Srilanka through the Presidential Scholarship for Foreign Student programme which is taken care by [Ministry of Education,Srilanka].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my time on:
 
