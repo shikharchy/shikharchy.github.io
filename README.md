@@ -1,1 +1,1 @@
-# Academic webpage of Rahul Singh Maharjan
+# Academic webpage of Shikhar Chaudhary
