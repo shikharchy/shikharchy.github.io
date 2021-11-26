@@ -10,9 +10,9 @@ permalink: /
 
 Thank you for visiting my academic website. <br/>
 
-I am currently studying at [University of Vavuniya,Srilanka]<br/>
+I am currently studying at [University of Vavuniya,Srilanka].<br/>
 
-I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my research on:
+I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my time on:
 
 * Lifelong Human-Robot Interaction
 * Deep Learning and its Uncertainty & Robustness
@@ -28,12 +28,11 @@ Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
 
-Rahul Singh Maharjan <br />
+Shikhar Chaudahry <br />
 Pixel away from <br />
-Email: rahulsingh.maharjan (at) manchester.ac.uk
+Email: xboyme2053 (at) gmail.com
 
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
-[Pokhara University, Nepal]: https://pu.edu.np/
-[Computer Vision Lab]: http://vision.skku.ac.kr/
+
 
