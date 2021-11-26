@@ -35,5 +35,5 @@ Email: xboyme2053 (at) gmail.com
 
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
-[CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar.pdf
+[CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar.pdf/
 [Ministry of Education,Srilanka]:https://www.mohe.gov.lk/index.php?lang=en
