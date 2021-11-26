@@ -28,7 +28,7 @@ Stay Tuned. More updates are coming pretty soon. :)
 
 ## Contact
 
-Shikhar Chaudahry <br />
+Shikhar Chaudhary <br />
 [MY CV] <br/>
 Pixel away from <br />
 Email: xboyme2053 (at) gmail.com
