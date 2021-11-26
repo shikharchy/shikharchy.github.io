@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/rahul.jpeg" caption="Me" width="350px" align="right" %}
 
-**Hello नमस्ते 안녕하세요 !!!**<br/>
+**Hello नमस्ते 안녕하세요 !!!** Thank you for visiting my academic website.<br/>
 
 I graduated with a Master's of Science in Electrical and Computer Engineering from [Sungkyunkwan University, South Korea] under the supervision of Prof. Juneho Yi at [Computer Vision Lab].  Prior to Joining Sungkyunkwan, I received my Bachelor's in Electronics and Communication Engineering from [Pokhara University, Nepal].<br/>
 
