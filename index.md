@@ -29,10 +29,11 @@ Stay Tuned. More updates are coming pretty soon. :)
 ## Contact
 
 Shikhar Chaudahry <br />
+[CV] <br/>
 Pixel away from <br />
 Email: xboyme2053 (at) gmail.com
 
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
-
+[CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar.pdf
 
