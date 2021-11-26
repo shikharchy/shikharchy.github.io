@@ -1,15 +1,15 @@
-title: Rahul Singh Maharjan
-description: Rahul Singh Maharjan
+title: Shikhar Chuadhary
+description: Shikhar Chaudhary
 
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://rahullabs.github.io"     # the base hostname & protocol for your site
+url: "http://shikharchy.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
-    name: Rahul Singh Maharjan
+    name: Shikhar Chaudhary
     facebook:
     scholar:
 
