@@ -10,7 +10,7 @@ permalink: /
 
 Thank you for visiting my academic website. <br/>
 
-I have graduated in Bachelor of Science in Information Technology from [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal. I got chance to study in Srilanka through the Presidential Scholarship for Foreign Student programme which is taken care by [Ministry of Education,Srilanka] joint venture with [Ministry of Education,Science and Technology,Nepal].<br/>
+I have graduated from Bachelor of Science in Information Technology from [University of Vavuniya,Srilanka]. I finished my Secondary education from Columbus Higher Secondary School,Nepal. I got chance to study in Srilanka through the Presidential Scholarship for Foreign Student programme which is taken care by [Ministry of Education,Srilanka] joint venture with [Ministry of Education,Science and Technology,Nepal].<br/>
 
 I am broadly interested in different forms of artificial intelligence that carry out the assigned tasks robustly and reliably. In an **unsorted list**, I spend most of my time on:
 
