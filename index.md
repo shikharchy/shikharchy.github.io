@@ -31,10 +31,10 @@ Stay Tuned. More updates are coming pretty soon. :)
 Shikhar Chaudhary <br />
 [MY CV] <br/>
 Pixel away from <br />
-Email: xboyme2053 (at) gmail.com
+Email: 2016ict43@vau.jfn.ac.lk
 
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
-[MY CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar.pdf/
+[MY CV]:https://github.com/shikharchy/shikharchy.github.io/blob/main/Shikhar(2)(1).pdf/
 [Ministry of Education,Srilanka]:https://www.mohe.gov.lk/index.php?lang=en
 [Ministry of Education,Science and Technology,Nepal]:https://moe.gov.np/
