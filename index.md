@@ -31,7 +31,7 @@ Stay Tuned. More updates are coming pretty soon. :)
 Shikhar Chaudhary <br />
 [MY CV] <br/>
 Pixel away from <br />
-Email: 2016ict43@vau.jfn.ac.lk
+Email: xboyme2053@gmail.com
 
 
 [University of Vavuniya,Srilanka]: https://www.vau.ac.lk/
